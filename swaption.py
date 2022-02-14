@@ -1,5 +1,6 @@
 
-from tkinter import TRUE
+#Still brainstorming i.e code doesn't produce anything yet
+
 import QuantLib as ql
 from QuantLib import *
 
